@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vrund Raval.
 - 👀 I’m interested in Android dev, Software dev, Game dev, AI, Machine learning, Cyber Security, and Graphic design.
-- 🌱 I’m currently learning Android Development, Java, and Kotlin.
+- 🌱 I’m currently learning Android Development, Flutter, Dart, Java, and Kotlin.
 - 💞️ I’m looking to collaborate on open-source projects related to Android dev.
 - 📫 How to reach me ... This is my email: vrundraval24@gmail.com
 
